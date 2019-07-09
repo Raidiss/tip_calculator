@@ -1,0 +1,25 @@
+.calc-container {
+    margin: 50px 50px;
+    padding: 50px;
+    width: auto;
+    font-family: 'Raleway', sans-serif;
+    color: brown;
+    background: #f2f2f2;
+    display: inline-block;
+    border: solid 1px;
+}
+
+#calculate-button {
+    background: brown;
+    width: 100px;
+    color: white;
+    border: solid 1px;
+}
+
+#total-bill {
+    width: 100px;
+}
+
+#people-form {
+    width: 100px;
+}
